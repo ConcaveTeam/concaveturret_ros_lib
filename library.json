@@ -1,0 +1,18 @@
+{
+    "name": "concaveturret_ros_lib",
+    "keywords": "concaveturret, rosserial, ros, robot operating system",
+    "description": "Firmware library with interface to ROS",
+    "authors":
+    {
+        "name": "Kawin Nikomborirak",
+        "email": "concavemail@gmail.com",
+        "url": "https://gitlab.com/concavegit"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ConcaveTeam/concaveturret_ros_lib.git"
+    },
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
