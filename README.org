@@ -1,0 +1,4 @@
+#+title: ConcaveTurret ROS Libraries
+
+This repository contains libraries for the microcontroller which allows it to communicate with ROS.
+Most importantly, it contains an interface to the =concaveteam/Spherical= message which contains spherical coordinates in degrees describing the turret should aim.
