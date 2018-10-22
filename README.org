@@ -4,7 +4,7 @@ This repository contains libraries for the microcontroller which allows it to co
 Most importantly, it contains an interface to the =concaveteam/Spherical= message which contains spherical coordinates in degrees describing the turret should aim.
 
 * Installation
-This assumes that the project uses =[[https://platformio.org/][platformio]]=.
+This assumes that the project uses [[https://platformio.org/][platformio]].
 Add =https://github.com/ConcaveTeam/concaveturret_ros_lib= to =lib_deps=:
 
 #+BEGIN_SRC conf
